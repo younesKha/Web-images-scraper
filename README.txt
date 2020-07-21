@@ -1,1 +1,1 @@
-python script
+ python script for scrape images 
