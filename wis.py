@@ -1,4 +1,6 @@
-#writen By Younes
+#writen By Younes Khafaja
+#yyk_2000@hotmail.com
+#22-7-2020
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
@@ -11,7 +13,6 @@ if len(sys.argv) < 3:
     print('input args <url> <folder name> ')
     exit()
 
-print('************************************')
 print('************************************')
 print('*********WEB IMAGES SCRAPER*********')
 print('************************************')
